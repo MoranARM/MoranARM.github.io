@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "moranarm",
+            "address": "https://anisette-v3-server-k1rp.onrender.com"
+        }
+    ]
+}
